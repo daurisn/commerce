@@ -34,7 +34,7 @@ export default function Blog() {
               <div className="flex-shrink-0 inline-flex rounded-full border-2 border-white">
                 <img
                   className="h-12 w-12 rounded-full"
-                  src="https://vercel.com/api/www/avatar/61182a9f6bda512b4d9263c9c8a60aabe0402f4c?s=204"
+                  src="https://s3-media0.fl.yelpcdn.com/bphoto/2gVUuVrjx62ZTI9IjsTPJA/l.jpg"
                   alt="Avatar"
                 />
               </div>
