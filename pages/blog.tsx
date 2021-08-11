@@ -21,7 +21,7 @@ export default function Blog() {
       <div className="text-center pt-40 pb-56 bg-violet">
         <Container>
           <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-white sm:text-5xl sm:leading-none md:text-6xl">
-            Welcome to Acme, the simplest way to start publishing with Next.js
+            Bienvenidos, to El Castillo de Yaque!
           </h2>
           <p className="mt-3 max-w-md mx-auto text-gray-100 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
             El Castillo de Yaque Restaurant is located on 5th Avenue in one of the most diverse
@@ -40,10 +40,10 @@ export default function Blog() {
               </div>
               <div className="ml-4">
                 <div className="leading-6 font-medium text-white">
-                  José Rodriguez
+                  Ramon Nunez
                 </div>
                 <div className="leading-6 font-medium text-gray-200">
-                  CEO, Acme
+                  President
                 </div>
               </div>
             </div>
