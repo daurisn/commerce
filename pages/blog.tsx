@@ -25,8 +25,8 @@ export default function Blog() {
           </h2>
           <p className="mt-3 max-w-md mx-auto text-gray-100 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
             El Castillo de Yaque Restaurant is located on 5th Avenue in one of the most diverse
-            Latino neighborhoods in NYC, Sunset Park. Named after a famous river in the Dominican
-            Republic, it has maintained its roots for decades and is as close to DR as you can get
+            Latino neighborhoods in NYC, Sunset Park. Named after a river in the Dominican
+            Republic, it has maintained its roots for decades and is as close as authentic Dominican cuisine as you can get,
             without leaving NYC.
           </p>
           <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-12">
